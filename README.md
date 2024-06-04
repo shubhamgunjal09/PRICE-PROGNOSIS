@@ -3,4 +3,4 @@ Integrated a machine learning model for price prognosis into the project using L
 - Incorporated historical data for training and testing the prediction model.
 - Created visualizations using Matplotlib to display model predictions and actual prices over time.
 - Updated README with instructions on how to use the price prediction feature.
-These changes enhance the project's functionality by introducing predictive analytics for price trends.
+These changes enhance the project's functionality by introducing predictive analytics for price trends.s
